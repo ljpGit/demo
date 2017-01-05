@@ -10,7 +10,6 @@ public class HelloGit {
 		int abc;
 		int bc;
 		int abcd;
-		int 冲突;
 		int efgh;
 
 	}

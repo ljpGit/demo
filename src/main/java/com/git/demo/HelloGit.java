@@ -7,11 +7,7 @@ public class HelloGit {
 		System.out.println("second git");
 		System.out.println("five git");
 		System.out.println("four git");
-<<<<<<< HEAD
-		int ab;
-		
-=======
-		int a;
->>>>>>> branch 'master' of https://github.com/ljpGit/demo.git
+		int abc;
+	
 	}
 }

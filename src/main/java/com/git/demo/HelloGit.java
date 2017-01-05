@@ -7,6 +7,7 @@ public class HelloGit {
 		System.out.println("second git");
 		System.out.println("five git");
 		System.out.println("four git");
-		int a;
+		int ab;
+		
 	}
 }

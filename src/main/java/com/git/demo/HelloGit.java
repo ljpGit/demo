@@ -8,14 +8,5 @@ public class HelloGit {
 		System.out.println("five git");
 		System.out.println("four git");
 		int abcde;
-		int abcdef;
-		int abcd;
-<<<<<<< HEAD
-		int efg;
-=======
-		int efghij;
-
-
->>>>>>> branch 'master' of https://github.com/ljpGit/demo.git
 	}
 }

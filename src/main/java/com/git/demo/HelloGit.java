@@ -8,9 +8,8 @@ public class HelloGit {
 		System.out.println("five git");
 		System.out.println("four git");
 		int abcde;
-		int abc;
+		int abcdef;
 		int abcd;
 		int efg;
-
 	}
 }

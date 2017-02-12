@@ -10,6 +10,12 @@ public class HelloGit {
 		int abcde;
 		int abcdef;
 		int abcd;
+<<<<<<< HEAD
 		int efg;
+=======
+		int efghij;
+
+
+>>>>>>> branch 'master' of https://github.com/ljpGit/demo.git
 	}
 }

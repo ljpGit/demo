@@ -10,7 +10,7 @@ public class App
     {
     	int j;
         System.out.println( "Hello World!" );
-        System.out.println( "hell World!" );
+        System.out.println( "hello World!" );
 
     }
 }

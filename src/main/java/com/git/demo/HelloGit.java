@@ -9,6 +9,6 @@ public class HelloGit {
 		System.out.println("four git");
 		int abc;
 		int j;
-
+		int i;
 	}
 }

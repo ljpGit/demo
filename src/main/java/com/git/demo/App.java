@@ -11,7 +11,7 @@ public class App
     	int i;
         System.out.println( "Hello World!" );
         System.out.println( "hello World!" );
-        System.out.println("hello git");
+        System.out.println("gitBash");
 
 
     }
